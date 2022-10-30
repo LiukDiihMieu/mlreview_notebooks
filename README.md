@@ -1,5 +1,6 @@
 # mlreview_notebooks
 
+This forked repo aims to make the original codes updated and more readable.
 This repo contains Jupyter notebooks associated with the review article:
 
 ## A high-bias, low-variance introduction to Machine Learning for physicists
